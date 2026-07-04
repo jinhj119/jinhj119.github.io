@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio databases
+*.db
+*.vsidx
+
+# Build folders (not needed for a static website)
+bin/
+obj/
